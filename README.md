@@ -1,4 +1,11 @@
-## Hi there 👋
+## Hi hello hi hai hei hui 🪛
+
+i am a 
+- professional autistic
+- no life
+- dosent go outside
+
+thank you for your time goodbye
 
 <!--
 **polecatttt/polecatttt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
