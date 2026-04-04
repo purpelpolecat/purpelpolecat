@@ -1,11 +1,5 @@
-## Hi hello hi hai hei hui 🪛
-
-i am a 
-- professional autistic
-- no life
-- dosent go outside
-
-thank you for your time goodbye
+# I am now on codeberg! see me there!!
+microslop ruins everything, so see my [codeberg](https://codeberg.org/polecat)
 
 <!--
 **polecatttt/polecatttt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
