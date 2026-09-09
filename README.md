@@ -1,6 +1,5 @@
-# I am now on codeberg! see me there!!
-microslop ruins everything, so see my [codeberg](https://codeberg.org/polecat)\
-my current projects will now be archived, and a note will be added to their readme :p
+# Hailo!
+I'm Polecat (she/her 🏳️‍⚧️). Mostly just here for starring projects i like. To see my projects, go to https://codeberg.org/polecat
 
 <!--
 **polecatttt/polecatttt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
